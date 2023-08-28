@@ -9,5 +9,5 @@ if(Object.values(sampleObject).includes(key))
 }
 
 // Do not change the code below
-//const key = prompt("Enter Key.");
-//alert(hasKey(key));
+const key = prompt("Enter Key.");
+alert(hasKey(key));
